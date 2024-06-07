@@ -1,0 +1,16 @@
+Face Recognition System using TensorFlow
+Overview
+This project is a Face Recognition System built using TensorFlow. The system is designed to detect and recognize faces in images or videos, leveraging deep learning techniques for robust performance.
+
+Features
+Face Detection: Identify and locate faces within an image or video.
+Face Recognition: Match detected faces to a database of known faces.
+Real-Time Processing: Capable of recognizing faces in real-time from a webcam feed.
+Scalable Architecture: Easily extend the system to handle large datasets of faces.
+Installation
+Prerequisites
+Python 3.7 or higher
+TensorFlow 2.x
+OpenCV
+NumPy
+Matplotlib (optional, for visualization)
